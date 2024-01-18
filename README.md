@@ -26,15 +26,15 @@
 
 - 🎧 Music 
 
-- ️⚽️ Football
+- ️⚽️ Gyn
 
 - 👀 Artificial Intelligence and Machine Learning Enthusiast
 
-- 📍 Location - Bangalore, Karnataka
+- 📍 Location - Vadodara, Gujarat
   
 - 🔭 Learning - Exploring - Improving 😶
 
-- 📫 How to reach me **bhudil.mallick@gmail.com**
+- 📫 How to reach me **0piyush2003singh0@gmail.com**
 </p>
 <br><br>
 

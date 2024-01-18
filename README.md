@@ -52,22 +52,22 @@
 <br>
 
 <!-- Top Languages -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhudil&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Stats"/>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhudil&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="Stats"/>
 </p>
 
 <!-- GitHub Statistics -->
-<p align="center">📊GitHub Statistics📊</p>
+<!--<p align="center">📊GitHub Statistics📊</p>
 
 <!-- GitHub-Stats -->
-<p align="Center">
+<!--<p align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bhudil&show_icons=true&locale=en&theme=tokyonight" alt="Stats"/>
 <br> <br>
 
 
-<!-- Repositories and Projects -->
+<!-- Repositories and Projects 
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
-<a href="https://github.com/Bhudil/Instruments_Classifier ">
+<a href="https://github.com/Piyush07082003/DSA-java">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=radical" alt="Instruments Image Classification System" />
 </a>
 <a href="https://github.com/Bhudil/Sentiment_Bot">

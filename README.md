@@ -2,9 +2,9 @@
 
 <!-- Intro -->
 <p align="center">
-  Hello World! <br>
+  Greetings! <br>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" valign="middle"> <br>
-  I'm Bhudil
+  I'm Piyush
 </p>
 
 <!-- Typing About -->
